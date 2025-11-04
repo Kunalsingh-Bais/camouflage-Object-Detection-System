@@ -88,6 +88,3 @@ Include your chosen license (e.g., MIT, Apache-2.0). If undecided, add a LICENSE
 If you use this code in research or a project, please cite or mention the repository and author. Add citation details here when available.
 
 ---
-Notes:
-- Replace example commands and config names with the actual scripts and filenames available in the repository.
-- If you'd like, I can create a ready-to-commit README.md adapted exactly to the files and scripts in this repo (I will scan the repository and fill in exact command names, config filenames, and dataset adapter details).
